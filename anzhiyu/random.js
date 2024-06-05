@@ -1,3 +1,3 @@
-var posts=["2024/01/29/hello-world/","2024/01/29/算法/leetcode/","2024/06/05/RL/MDP/","2024/01/29/算法/数据结构/"];function toRandomPost(){
+var posts=["2024/06/05/RL/MDP/","2024/06/06/算法/链表总结/","2024/01/29/算法/数组总结/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
