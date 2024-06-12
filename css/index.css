@@ -110,6 +110,7 @@ img {
   -moz-user-drag: none; /* Gecko */
   -ms-user-drag: none; /* Trident/Edge */
   user-drag: none;
+  margin: 0 auto;
 }
 
 button,
