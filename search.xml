@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>Blog主题修改</title>
+      <link href="/posts/2979ebd4.html"/>
+      <url>/posts/2979ebd4.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Tool_Learn </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Physics-informed neural network</title>
+      <link href="/posts/ae228ea9.html"/>
+      <url>/posts/ae228ea9.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 科研 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> DL </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>二叉树</title>
       <link href="/posts/e85d694a.html"/>
       <url>/posts/e85d694a.html</url>

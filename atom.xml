@@ -17,6 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Blog主题修改</title>
+    <link href="https://morepaperac.github.io/posts/2979ebd4.html"/>
+    <id>https://morepaperac.github.io/posts/2979ebd4.html</id>
+    <published>2024-07-11T06:58:33.000Z</published>
+    <updated>2024-07-11T14:17:33.000Z</updated>
+    
+    
+    <summary type="html">Blog主题修改方案 及 基本用法</summary>
+    
+    
+    
+    <category term="Tool_Learn" scheme="https://morepaperac.github.io/categories/Tool-Learn/"/>
+    
+    
+    <category term="Hexo" scheme="https://morepaperac.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Physics-informed neural network</title>
+    <link href="https://morepaperac.github.io/posts/ae228ea9.html"/>
+    <id>https://morepaperac.github.io/posts/ae228ea9.html</id>
+    <published>2024-07-11T06:58:33.000Z</published>
+    <updated>2024-07-12T14:17:33.000Z</updated>
+    
+    
+    <summary type="html">PINN 原始论文 及 基于PyTorch的代码</summary>
+    
+    
+    
+    <category term="科研" scheme="https://morepaperac.github.io/categories/%E7%A7%91%E7%A0%94/"/>
+    
+    
+    <category term="DL" scheme="https://morepaperac.github.io/tags/DL/"/>
+    
+  </entry>
+  
+  <entry>
     <title>二叉树</title>
     <link href="https://morepaperac.github.io/posts/e85d694a.html"/>
     <id>https://morepaperac.github.io/posts/e85d694a.html</id>
