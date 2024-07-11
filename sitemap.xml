@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://morepaperac.github.io/posts/e8eb0481.html</loc>
+    
+    <lastmod>2024-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://morepaperac.github.io/posts/2362a8ea.html</loc>
     
     <lastmod>2024-07-11</lastmod>
@@ -50,15 +59,6 @@
     <loc>https://morepaperac.github.io/posts/c0973ef2.html</loc>
     
     <lastmod>2024-07-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://morepaperac.github.io/posts/e8eb0481.html</loc>
-    
-    <lastmod>2024-07-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
